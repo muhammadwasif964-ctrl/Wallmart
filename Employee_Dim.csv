@@ -1,0 +1,94 @@
+Employee_ID,Employee_Name,Gender,Position,Reporting_ID,Department,Hire_Date,Salary
+1,Judy_Jones,Female,BH,1,Administration,10/21/2012,58200
+2,Charlie_Garcia,Female,HR_Manager,1,Human Resources,6/13/2019,86400
+3,Frank_Jones,Male,HR_Asst.Manager,2,Human Resources,12/18/2013,158400
+4,Eve_Rodriguez,Female,Fin_Manager,1,Finance,12/18/2010,71300
+5,Alice_Jones,Male,CS_Manager,1,Customer Service,4/16/2011,66800
+6,Frank_Martinez,Male,MRT_Manager,1,Marketing,8/6/2023,39200
+7,Judy_Miller,Female,LGL_Manager,1,Legal,8/1/2020,172500
+8,Eve_Jones,Male,Fin_Asst.Manager,4,Finance,6/24/2021,61500
+9,Grace_Brown,Male,Fin_Resource,8,Finance,2/19/2015,47800
+10,Eve_Smith,Male,IT_Manager,1,IT,4/9/2021,74200
+11,Heidi_Williams,Male,Sales_Manager,1,Sales,12/31/2017,92300
+12,Bob_Johnson,Male,MRT_Asst.Manager,6,Marketing,2/19/2013,53900
+13,Frank_Davis,Male,CS_Asst.Manager,5,Customer Service,8/15/2022,66400
+14,Bob_Miller,Male,CS_Resource,13,Customer Service,11/20/2015,81600
+15,Bob_Smith,Male,OP_Manager,1,Operations,4/17/2020,69500
+16,Frank_Miller,Female,OP_Asst.Manager,15,Operations,8/8/2011,44300
+17,Eve_Miller,Male,MRT_Resource,12,Marketing,9/28/2017,50100
+18,Alice_Miller,Other,OP_Resource,16,Operations,12/22/2011,64700
+19,Eve_Davis,Male,Fin_Resource,8,Finance,7/5/2023,118600
+20,Charlie_Rodriguez,Male,HR_Resource,3,Human Resources,6/21/2016,57200
+21,Judy_Garcia,Male,CS_Resource,13,Customer Service,2/25/2014,78900
+22,Charlie_Williams,Female,MRT_Resource,12,Marketing,9/22/2023,63400
+23,Judy_Williams,Female,Sales_Asst.Manager,11,Sales,7/21/2017,42600
+24,Diana_Davis,Female,MRT_Resource,12,Marketing,4/2/2017,68900
+25,Grace_Johnson,Other,IT_Asst.Manager,10,IT,25-Jul-14,181300
+26,Bob_Jones,Male,CS_Resource,13,Customer Service,10/26/2021,77500
+27,Heidi_Martinez,Female,CS_Resource,13,Customer Service,4/4/2017,70200
+28,Grace_Rodriguez,Female,HR_Resource,3,Human Resources,2/19/2019,46800
+29,Alice_Williams,Male,IT_Resource,25,IT,4/30/2011,82300
+30,Frank_Garcia,Other,HR_Resource,3,Human Resources,12/10/2015,51900
+31,Grace_Jones,Other,Sales_Resource,23,Sales,8/24/2012,58600
+32,Diana_Smith,Male,Sales_Resource,23,Sales,8/22/2022,88500
+33,Alice_Smith,Female,OP_Resource,16,Operations,8-Sep-21,126400
+34,Grace_Smith,Male,HR_Resource,3,Human Resources,9/17/2011,45200
+35,Ivan_Brown,Female,LGL_Asst.Manager,7,Legal,3/15/2010,49700
+36,Bob_Martinez,Male,IT_Resource,25,IT,7/22/2017,109800
+37,Ivan_Martinez,Female,OP_Resource,16,Operations,2/4/2022,149600
+38,Eve_Brown,Female,MRT_Resource,12,Marketing,4/30/2019,77300
+39,Charlie_Smith,Male,OP_Resource,16,Operations,3/28/2014,121500
+40,Judy_Rodriguez,Male,Sales_Resource,23,Sales,2/20/2010,43800
+41,Bob_Rodriguez,Other,IT_Resource,25,IT,3/31/2023,114200
+42,Charlie_Jones,Female,MRT_Resource,12,Marketing,7/22/2010,83600
+43,Ivan_Rodriguez,Male,MRT_Resource,12,Marketing,1/3/2011,75900
+44,Bob_Davis,Male,LGL_Resource,35,Legal,2/16/2022,127800
+45,Eve_Johnson,Male,OP_Resource,16,Operations,11/2/2015,53400
+46,Grace_Garcia,Male,LGL_Resource,35,Legal,13-Jan-16,117300
+47,Grace_Miller,Female,IT_Resource,25,IT,5-Sep-23,48500
+48,Grace_Williams,Female,Sales_Resource,23,Sales,14-Aug-22,72100
+49,Diana_Jones,Female,HR_Resource,3,Human Resources,4/29/2017,65300
+50,Judy_Smith,Female,Sales_Resource,23,Sales,3/27/2019,91800
+51,Diana_Brown,Other,LGL_Resource,35,Legal,1/17/2012,79600
+52,Ivan_Williams,Male,LGL_Resource,35,Legal,6/24/2018,87400
+53,Frank_Smith,Male,LGL_Resource,35,Legal,6/20/2023,45900
+54,Alice_Johnson,Male,IT_Resource,25,IT,8/30/2017,165700
+55,Alice_Brown,Female,Fin_Resource,8,finance,7/27/2014,67800
+56,Judy_Brown,Female,LGL_Resource,35,Legal,11/21/2023,83200
+57,Diana_Martinez,Male,LGL_Resource,35,Legal,11/5/2014,80400
+58,Judy_Martinez,Female,CS_Resource,13,Customer Service,6/12/2012,59700
+59,Eve_Garcia,Other,Fin_Resource,8,Finance,7/4/2012,122900
+60,Ivan_Johnson,Female,HR_Resource,3,human resources,6/5/2013,66500
+61,Grace_Davis,Other,CS_Resource,13,Customer Service,4/29/2022,84700
+62,Heidi_Jones,Female,Fin_Resource,8,Finance,3/19/2020,70800
+63,Heidi_Rodriguez,Female,Sales_Resource,23,Sales,7/13/2022,68900
+64,Heidi_Davis,Male,Sales_Resource,23,Sales,4/9/2010,62300
+65,Heidi_Johnson,Male,OP_Resource,16,Operations,1/22/2019,50700
+66,Judy_Johnson,Female,Sales_Resource,23,Sales,30-Sep-14,79200
+67,Diana_Garcia,Female,Sales_Resource,23,Sales,6/15/2012,47600
+68,Ivan_Miller,Female,IT_Resource,25,IT,10/2/2016,115400
+69,Grace_Martinez,Female,MRT_Resource,12,Marketing,9/11/2015,46200
+70,Bob_Williams,Male,OP_Resource,16,Operations,8/5/2011,153200
+71,Judy_Davis,Female,MRT_Resource,12,Marketing,17-Jun-11,49400
+72,Heidi_Smith,Female,Fin_Resource,8,Finance,6/5/2021,52800
+73,Bob_Brown,Female,MRT_Resource,12,Marketing,16-Jan-10,176900
+74,Alice_Davis,Female,Fin_Resource,8,finance,12/20/2023,106700
+75,Heidi_Miller,Female,Sales_Resource,23,Sales,2/7/2023,73400
+76,Frank_Williams,Female,MRT_Resource,12,Marketing,2/2/2015,86900
+77,Charlie_Davis,Male,LGL_Resource,35,Legal,10/21/2014,95300
+78,Alice_Rodriguez,Female,Sales_Resource,23,Sales,3/2/2014,51300
+79,Alice_Martinez,Male,Sales_Resource,23,sales,8/29/2018,82500
+80,Frank_Brown,Male,Sales_Resource,23,Sales,2/7/2022,162800
+81,Charlie_Martinez,Male,Sales_Resource,23,Sales,7/26/2013,69100
+82,Ivan_Garcia,Male,LGL_Resource,35,Legal,10/30/2014,55400
+83,Alice_Garcia,Male,Fin_Resource,8,Finance,6/21/2021,75600
+84,Frank_Rodriguez,Other,CS_Resource,13,Customer Service,3/18/2023,78400
+85,Eve_Williams,Male,LGL_Resource,35,Legal,11/15/2021,71300
+86,Ivan_Jones,Female,CS_Resource,13,Customer Service,8/5/2015,64200
+87,Charlie_Johnson,Female,Fin_Resource,8,Finance,12/6/2020,69700
+88,Heidi_Garcia,Male,OP_Resource,16,Operations,8/6/2021,81900
+89,Diana_Williams,Male,OP_Resource,16,Operations,6/10/2013,67500
+90,Diana_Miller,Female,Fin_Resource,8,Finance,4/20/2013,48300
+91,Eve_Martinez,Male,IT_Resource,25,IT,20-Mar-16,90700
+92,Frank_Johnson,Male,IT_Resource,25,IT,6/6/2015,71300
+93,Charlie_Miller,Female,HR_Resource,3,Human Resources,3/4/2010,169400
